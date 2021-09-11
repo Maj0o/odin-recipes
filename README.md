@@ -1,6 +1,7 @@
-Create a simple recipe page for practising {
-Using hyperlinks;
-Using headers;
-Created un- and organised links;
+Created a simple recipe page for practising:
 
-}
+Hyperlinks,
+headers,
+un- and organised links,
+changing image attributes,
+and navigation through subdirectories. 
