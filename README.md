@@ -1,7 +1,7 @@
 Create a simple recipe page for practising:
 
-Hyperlinks;
-Headers;
-Un- and organised links;
-Changing image attributes;
-Navigation through subdirectories. 
+Hyperlinks,
+headers,
+un- and organised links,
+changing image attributes,
+and navigation through subdirectories. 
