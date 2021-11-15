@@ -1,7 +1,7 @@
-Created a simple recipe page for practising:
+Learned how to create:
 
-Hyperlinks,
-headers,
-un- and organised links,
-changing image attributes,
-and navigation through subdirectories. 
+* Hyperlinks
+* Headers
+* UL/OL
+* Image attributes
+* Subdirectory navigation 
